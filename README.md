@@ -1,9 +1,11 @@
 # uftdev-aos-web-selenium
 An example of running a Selenium Test through UFT Developer (Formerly LeanFT) and adding AI capabilities.
 
-You will also need to remove the Chrome folder key in HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google
+NOTE - This project only works on WINDOWS platforms since UFT AI only works on WINDOWS platforms.
 
-You willl also need to install the UFT Agent into the Selenium-spawned browser (instructions in test code)
+NOTE: Make sure your browser is updated to match the version of the chromedriver agent (currently 108).
+
+NOTE: You will need to remove any Chrome folder key in HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google
 
 This project assumes you have followed the UFT Dev set up instructions found on https://admhelp.microfocus.com/uftdev/en/2021-2022/HelpCenter/Content/HowTo/Sel_LeanFT4SelT.htm
 
