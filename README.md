@@ -1,4 +1,4 @@
-# uftdev-aos-web-selenium
+# uftdev-aos-web-selenium-ai
 An example of running a Selenium Test through UFT Developer (Formerly LeanFT) and adding AI capabilities.
 
 NOTE - This project only works on WINDOWS platforms since UFT AI only works on WINDOWS platforms.
