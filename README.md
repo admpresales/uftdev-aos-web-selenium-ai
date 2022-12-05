@@ -1,9 +1,9 @@
 # uftdev-aos-web-selenium-ai
 An example of running a Selenium Test through UFT Developer (Formerly LeanFT) and adding AI capabilities.
 
-NOTE - This project only works on WINDOWS platforms since UFT AI only works on WINDOWS platforms.
+NOTE - This project only works on WINDOWS platforms since UFT AI only works on WINDOWS platforms.  
 
-NOTE: Make sure your browser is updated to match the version of the chromedriver agent (currently 108).
+NOTE: Make sure your browser is updated to match the version of the chromedriver agent (currently 108).  
 
 NOTE: If using NimbusClient-2022-R7 or earlier, you will need to remove the following registry keys:  
 HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallBlocklist\1  
