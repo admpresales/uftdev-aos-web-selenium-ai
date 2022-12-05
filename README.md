@@ -25,7 +25,7 @@ Check which versions of libraries you have available and make the appropriate ch
 ```
         <junit.ver>4.12</junit.ver>
         <se.ver>2.53.1</se.ver>
-        <webdrivermanager.ver>3.0.0</webdrivermanager.ver>
+        <webdrivermanager.ver>3.6.1</webdrivermanager.ver>
         <slf4j.ver>1.7.25</slf4j.ver>
         <leanft.version>RELEASE</leanft.version>
 ```
