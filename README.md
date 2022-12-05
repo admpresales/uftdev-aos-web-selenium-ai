@@ -5,7 +5,9 @@ NOTE - This project only works on WINDOWS platforms since UFT AI only works on W
 
 NOTE: Make sure your browser is updated to match the version of the chromedriver agent (currently 108).
 
-NOTE: You will need to remove any Chrome folder key in HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google
+NOTE: If using NimbusClient-2022-R7 or earlier, you will need to remove the following registry keys:  
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallBlocklist\1  
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist\1  
 
 This project assumes you have followed the UFT Dev set up instructions found on https://admhelp.microfocus.com/uftdev/en/2021-2022/HelpCenter/Content/HowTo/Sel_LeanFT4SelT.htm
 
