@@ -39,7 +39,7 @@ More details about the utility can be found:
 * https://stackoverflow.com/questions/7450416/selenium-2-chrome-driver
 
 #### Note for execution from command line (the below is for reference and i have not validated on this release since we are using Maven all the time now)
-java -cp .;junit-4.12.jar;presales-1.0-SNAPSHOT.jar;hamcrest-core-1.3.jar;selenium-server-standalone-2.53.1.jar;com.hpe.lft.selenium.jar org.junit.runner.JUnitCore SeleniumTest
+java -cp .;junit-4.12.jar;presales-1.0-SNAPSHOT.jar;hamcrest-core-1.3.jar;selenium-server-standalone-2.53.1.jar;com.hpe.lft.selenium.jar org.junit.runner.JUnitCore AITest
 
 The above assumes:
 - you have done a maven deploy goal
